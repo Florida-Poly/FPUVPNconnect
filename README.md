@@ -13,3 +13,6 @@ Connect to the Florida Polytechnic University VPN on Linux
 2. Extract ```tar -xvzf openconnect-8.10.tar.gz ```
 3. Copy install.sh from this repository into the directory and run it to install openconnect.
 4. Run ```./fpuvpn.sh``` to connect.
+
+# Contribute
+This is an open source project. [Help make it better.](https://github.com/Florida-Poly/FPUVPNconnect/pull/new/master)
