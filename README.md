@@ -1,4 +1,7 @@
 # FPUVPNconnect
+![GitHub issues](https://img.shields.io/github/issues/Florida-Poly/FPUVPNconnect)
+![GitHub](https://img.shields.io/github/license/Florida-Poly/FPUVPNconnect?color=blue)
+
 Connect to the Florida Polytechnic University VPN on Linux
 
 # Requirements
